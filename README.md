@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dbff6d4f-b124-4234-b420-6ed516e5372a/deploy-status)](https://app.netlify.com/sites/xenodochial-davinci-40838c/deploys)
 
 
 # SomeKindOfPet
